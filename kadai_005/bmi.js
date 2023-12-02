@@ -11,6 +11,6 @@ let BMI;
 BMI = (weight)/(height*height);
 
 
-console.log('weight'+weight);
-console.log('height'+height);
-console.log('BMI'+BMI);
+console.log(weight);
+console.log(height);
+console.log(BMI);
