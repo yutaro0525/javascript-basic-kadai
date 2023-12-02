@@ -1,4 +1,4 @@
-//ランダムな整数（12まで）
+//ランダムな整数
 let num = Math.floor(Math.random() * 16);
 
 //数値確認用
